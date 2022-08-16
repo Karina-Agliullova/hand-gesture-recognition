@@ -9,6 +9,4 @@ Dataset:
 
 KNN:
 - The distance between the neighboring values was found with the use of Euclidean distance
-- The dataset was trained and predicted
-
-Test:
+- The dataset was trained and tested
